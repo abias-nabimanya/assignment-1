@@ -9,3 +9,21 @@
     left: 500px;
     right: 150px;
 }
+
+.options {
+    position: absolute;
+    width: 500px;
+    height: 370px;
+}
+.option {
+    background-color: blue;
+    color: white;
+    display: block;
+    text-align: center;
+    position: relative;
+    width: 450px;
+    margin-bottom: 30px;
+    height: 65px;
+    left: 25px;
+    right: 25px;
+}
