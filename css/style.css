@@ -27,3 +27,14 @@
     left: 25px;
     right: 25px;
 }
+
+#question {
+    text-align: center;
+    margin: 25px;
+    font-size: 30px;
+}
+
+#next-button {
+    position: relative;
+    top: 385px;
+}
