@@ -1,0 +1,11 @@
+
+.quiz-container {
+    background-color: white;
+    position: relative;
+    width: 500px;
+    height: 500px;
+    top: 150px;
+    bottom: 150px;
+    left: 500px;
+    right: 150px;
+}
